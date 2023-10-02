@@ -38,4 +38,4 @@ https://mega.nz/file/7UMCWDrD#v-2OJvvTIz4uDL9Qn3Inc_VLNQY-wgdvihVaPdzmD0Q
 ### Directory Descriptions
 
 - **data/**: This directory contains all the data files, organized in a time-based manner. It provides three types of data for analysis: logs, metrics, and traces.
-- **data/**: This directory contains fault injection records, including the time of injection, severity, root cause, and fault category.
+- **groundtruth/**: This directory contains fault injection records, including the time of injection, severity, root cause, and fault category.
